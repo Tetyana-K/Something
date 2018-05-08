@@ -2,7 +2,7 @@
 int main()
 {
 std::cin >> name;
-std:: cout << "Hello  my lovely\n";
+std:: cout << "Hello  my lovely " << name <<"\n";
 
 return 0;
 }
