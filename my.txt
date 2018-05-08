@@ -2,5 +2,8 @@
 int main()
 {
 std:: cout << "Hello  my lovely\n";
+std:: cout << "Hello  my lovely2\n";
+std:: cout << "Hello  my lovely3\n";
+std:: cout << "Hello  my lovely4\n";
 return 0;
 }
